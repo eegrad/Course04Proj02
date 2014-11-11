@@ -1,4 +1,4 @@
-Course 04 Exploratory Data Analysis - Project 02
+Course 4: Exploratory Data Analysis - Project 02
 =====================
 
 Assignment
